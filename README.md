@@ -29,6 +29,8 @@ We aimed to develop a robust detection system for cell phones and faces by train
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/Abdulrehman786302/Mobile-and-face-detection-from-dynamic-background.git)
+   cd Mobile-and-face-detection-from-dynamic-background
 ```
+
+Run the .ipynb file and continue for your custom datasets
